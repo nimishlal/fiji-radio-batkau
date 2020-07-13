@@ -14,21 +14,21 @@ function App() {
         <h1>
           Radio Fiji 2
       </h1>
-        <audio width="" height="" controls >
+        <audio width="" height="" controls preload="auto">
           <source src="http://peridot.streamguys.com:7150/RFTwo" type="audio/mp3" />
         </audio>
       </div>
       <br></br>
       <div className="text-center border">
         <h1>Radio navtarang fiji</h1>
-        <audio controls>
+        <audio controls preload="auto">
           <source src="http://stream.fijivillage.com/navtarang" type="audio/mp3"></source>
         </audio>
       </div>
       <br></br>
       <div className="text-center border">
         <h1>Radio Sargam</h1>
-        <audio controls>
+        <audio controls preload="auto">
           <source src="http://stream.fijivillage.com/radiosargam" type="audio/mp3"></source>
         </audio>
       </div>
