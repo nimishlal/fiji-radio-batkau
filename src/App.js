@@ -34,12 +34,12 @@ function App() {
       </div>
       </div>
 <br></br>
-      <div className="text-center border">
+      {/* <div className="text-center border">
              <h1>Radio Mirchi Fiji</h1>
       <audio width="" height="" controls >
       <source src="http://peridot.streamguys.com:7150/Mirchi" type="audio/mp3"/>
       </audio>
-      </div>
+      </div> */}
       <footer className="colorFooter text-center">Made By Chidoro Batkau V1.0 MixKarDo</footer>
     </div>
   );
