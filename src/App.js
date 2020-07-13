@@ -22,7 +22,7 @@ function App() {
       <div className="text-center border">
         <h1>Radio navtarang fiji</h1>
         <audio controls preload="auto">
-          <source src="http://stream.fijivillage.com/navtarang" type="audio/mp3"></source>
+          <source src="https://stream.fijivillage.com/navtarang?ver=636650" type="audio/mp3"></source>
         </audio>
       </div>
       <br></br>
@@ -40,8 +40,10 @@ function App() {
       <source src="http://peridot.streamguys.com:7150/Mirchi" type="audio/mp3"/>
       </audio>
       </div> */}
+      
       <footer className="colorFooter text-center">Made By Chidoro Batkau V1.0 MixKarDo</footer>
     </div>
+    
   );
 }
 
