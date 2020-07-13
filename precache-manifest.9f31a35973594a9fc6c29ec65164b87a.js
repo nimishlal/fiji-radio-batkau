@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33bed090e8eab48000610afcfc7713c8",
+    "revision": "9cb0454503ef1095f76d26c4ba2e96a2",
     "url": "/fiji-radio-batkau/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fiji-radio-batkau/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "2dd6d799f683e3366454",
+    "revision": "e9d80ecdc9f0fadff4b4",
     "url": "/fiji-radio-batkau/static/css/main.15fb0233.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fiji-radio-batkau/static/js/2.2c627027.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2dd6d799f683e3366454",
-    "url": "/fiji-radio-batkau/static/js/main.f68814e5.chunk.js"
+    "revision": "e9d80ecdc9f0fadff4b4",
+    "url": "/fiji-radio-batkau/static/js/main.bcd6530f.chunk.js"
   },
   {
     "revision": "c9fdcca83b0829c64198",
