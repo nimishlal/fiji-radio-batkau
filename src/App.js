@@ -9,17 +9,17 @@ function App() {
         <h1>
           Radio Fiji 2
       </h1>
-        <video width="" height="" controls >
-      <source src="http://peridot.streamguys.com:7150/RFTwo" type="audio/mpeg"/>
-      </video>
+        <audio width="" height="" controls >
+      <source src="http://peridot.streamguys.com:7150/RFTwo" type="audio/mp3"/>
+      </audio>
       <h1>Radio navtarang fiji</h1>
-      <video controls>
-      <source src="http://stream.fijivillage.com/navtarang" type="audio/mpeg"></source>
-      </video>
+      <audio controls>
+      <source src="http://stream.fijivillage.com/navtarang" type="audio/mp3"></source>
+      </audio>
       <h1>Radio Sargam</h1>
-      <video controls>
-      <source src="http://stream.fijivillage.com/radiosargam" type="audio/mpeg"></source>
-      </video>
+      <audio controls>
+      <source src="http://stream.fijivillage.com/radiosargam" type="audio/mp3"></source>
+      </audio>
       </div>
       
       {/* <div>
@@ -28,7 +28,7 @@ function App() {
       <source src="http://peridot.streamguys.com:7150/Mirchi" type="audio/mpeg"/>
       </video>
       </div> */}
-      <footer>Made By Chidoro Batkau V1.0</footer>
+      <footer className="colorFooter">Made By Chidoro Batkau V1.0</footer>
     </div>
   );
 }
