@@ -28,7 +28,7 @@ function App() {
       <source src="http://peridot.streamguys.com:7150/Mirchi" type="audio/mpeg"/>
       </video>
       </div> */}
-      <footer className="colorFooter">Made By Chidoro Batkau V1.0</footer>
+      <footer className="colorFooter">Made By Chidoro Batkau V1.0 MixKarDo</footer>
     </div>
   );
 }
