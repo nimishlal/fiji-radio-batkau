@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fiji-radio-batkau/static/css/main.15fb0233.chunk.css",
-    "main.js": "/fiji-radio-batkau/static/js/main.ab394fbd.chunk.js",
-    "main.js.map": "/fiji-radio-batkau/static/js/main.ab394fbd.chunk.js.map",
+    "main.js": "/fiji-radio-batkau/static/js/main.38225994.chunk.js",
+    "main.js.map": "/fiji-radio-batkau/static/js/main.38225994.chunk.js.map",
     "runtime-main.js": "/fiji-radio-batkau/static/js/runtime-main.4001c5ab.js",
     "runtime-main.js.map": "/fiji-radio-batkau/static/js/runtime-main.4001c5ab.js.map",
     "static/css/2.af3c1da9.chunk.css": "/fiji-radio-batkau/static/css/2.af3c1da9.chunk.css",
     "static/js/2.2c627027.chunk.js": "/fiji-radio-batkau/static/js/2.2c627027.chunk.js",
     "static/js/2.2c627027.chunk.js.map": "/fiji-radio-batkau/static/js/2.2c627027.chunk.js.map",
     "index.html": "/fiji-radio-batkau/index.html",
-    "precache-manifest.ad9f1320216c28230bd060485bf2cc7b.js": "/fiji-radio-batkau/precache-manifest.ad9f1320216c28230bd060485bf2cc7b.js",
+    "precache-manifest.ac8891471f221d53e2c1932189cb7ca5.js": "/fiji-radio-batkau/precache-manifest.ac8891471f221d53e2c1932189cb7ca5.js",
     "service-worker.js": "/fiji-radio-batkau/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/fiji-radio-batkau/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.15fb0233.chunk.css.map": "/fiji-radio-batkau/static/css/main.15fb0233.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.2c627027.chunk.js",
     "static/css/main.15fb0233.chunk.css",
-    "static/js/main.ab394fbd.chunk.js"
+    "static/js/main.38225994.chunk.js"
   ]
 }
