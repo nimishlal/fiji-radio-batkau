@@ -34,12 +34,12 @@ function App() {
       </div>
       </div>
 <br></br>
-<div className="text-center border">
+{/* <div className="text-center border">
   <h1>Bula FM Fiji</h1>
   <audio controls>
     <source src="http://peridot.streamguys.com:7150/Bula" type="audio/mp3"></source>
   </audio>
-</div>
+</div> */}
       {/* <div className="text-center border">
              <h1>Radio Mirchi Fiji</h1>
       <audio width="" height="" controls >
