@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fiji-radio-batkau/precache-manifest.e5b12a409b98acdccc1aa9b733206c06.js"
+  "/fiji-radio-batkau/precache-manifest.1a126ade5bda38d1a0006a0f6ac38aa5.js"
 );
 
 self.addEventListener('message', (event) => {
