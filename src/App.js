@@ -14,7 +14,7 @@ function App() {
         <h1>
           Radio Fiji 2
       </h1>
-        <audio width="" height="" controls>
+        <audio width="" height="" preload="metadata" controls>
           <source src="http://peridot.streamguys.com:7150/RFTwo" type="audio/mp3" />
         </audio>
       </div>
@@ -22,7 +22,7 @@ function App() {
       <div className="text-center border">
         <h1>Radio navtarang fiji</h1>
         <audio controls preload="auto">
-          <source src="https://stream.fijivillage.com/navtarang?ver=636650" type="audio/mp3"></source>
+          <source src="https://stream.fijivillage.com/navtarang?ver=636650.mp3" type="audio/mp3"></source>
         </audio>
       </div>
       <br></br>
