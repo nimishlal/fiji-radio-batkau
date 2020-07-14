@@ -14,8 +14,8 @@ function App() {
         <h1>
           Radio Fiji 2
       </h1>
-        <audio width="" height="" preload="metadata" controls>
-          <source src="http://peridot.streamguys.com:7150/RFTwo" type="audio/mp3" />
+        <audio controls>
+          <source src="http://peridot.streamguys.com:7150/RFTwo" type="audio/mp3"/>
         </audio>
       </div>
       <br></br>
