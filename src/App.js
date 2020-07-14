@@ -6,6 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
+    
     <div className="App">
       <h1 className="center">Fiji Radio</h1>
       <div>
@@ -31,9 +32,10 @@ function App() {
         <audio controls preload="auto">
           <source src="https://stream.fijivillage.com/radiosargam" type="audio/mp3"></source>
         </audio>
+        <br></br>
+<button className="" onClick={() => window.location.reload(false)}>Click to reload!</button>
       </div>
       </div>
-<br></br>
 {/* <div className="text-center border">
   <h1>Bula FM Fiji</h1>
   <audio controls>
@@ -52,5 +54,6 @@ function App() {
     
   );
 }
+
 
 export default App;
