@@ -22,7 +22,7 @@ function App() {
             Radio Fiji 2
       </h1>
           <audio controls>
-            <source src="http://peridot.streamguys.com:7150/RFTwo" type="audio/mpeg" />
+            <source src="http://peridot.streamguys.com:7150/RFTwo" type="audio/mp3"/>
           </audio>
         </div>
         <br></br>
